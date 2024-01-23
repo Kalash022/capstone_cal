@@ -1,1 +1,1 @@
-"# halla_bol" 
+# BE MINDFUL KALASHHHH
