@@ -10,10 +10,10 @@
     <div id="calculator">
       <input type="text" id="display" readonly />
       <br />
-      <button onclick="clearDisplay()">C</button>
       <button onclick="appendToDisplay('7')">7</button>
       <button onclick="appendToDisplay('8')">8</button>
       <button onclick="appendToDisplay('9')">9</button>
+      <button onclick="clearDisplay()">C</button>
       <br />
       <button onclick="appendToDisplay('4')">4</button>
       <button onclick="appendToDisplay('5')">5</button>
@@ -31,7 +31,8 @@
       <button onclick="disableButton('buttonMul')">*</button>
       <br />
       <button onclick="calculate()">=</button>
-      <button onclick="eraseLastCharacter()">Erase</button>
+      <button onclick="eraseLastCharacter()">⌫</button>
+      <button onclick="appendToDisplay('%')">%</button>
 
     </div>
     <script src="calculator.js"></script>

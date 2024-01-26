@@ -1,5 +1,5 @@
 function appendToDisplay(value) {
-  if (value === '+' || value === '-' || /^[0-9]+$/.test(value)) {
+  if (value === '+' || value === '-' || value === '%' || /^[0-9]+$/.test(value)) {
     document.getElementById("display").value += value;
   }
 }
@@ -15,8 +15,11 @@ function eraseLastCharacter() {
 
 function calculate() {
   try {
-    document.getElementById("display").value = eval(
-      document.getElementById("display").value
+    let exp = document.getElementById("display").value;
+
+    exp = exp.replace(/%/g, '*0.01*');
+
+    document.getElementById("display").value = eval(exp
     );
   } catch (error) {
     document.getElementById("display").value = "Error";
