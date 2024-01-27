@@ -31,4 +31,4 @@ To use the calculator, follow these steps:
 - Subtraction functionality
 - Addition functionality
 - Erase last entered string
-
+- Calculation of Percentage functionality
