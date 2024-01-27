@@ -8,13 +8,13 @@ A basic calculator with subtraction, addition functionality and the ability to e
 
 ## Contributors
 
-| Name               | GitHub ID  |
-| ------------------ | ---------- |
-| Kalash Asati       | @johndoe   |
-| Akshata Shanmugam  | @janesmith |
-| Celestin Fernandes | @johndoe   |
-| Neha Chaturvedi    | @johndoe   |
-| Dikshant Sharma    | @johndoe   |
+| Name               | GitHub ID                                                  |
+| ------------------ | ---------------------------------------------------------- |
+| Kalash Asati       | [@Deadlyk2001](https://github.com/Kalash022)               |
+| Akshata Shanmugam  | [@AkshataShanmugam](https://github.com/AkshataShanmugam)   |
+| Celestin Fernandes | [@CelestinFernandes](https://github.com/CelestinFernandes) |
+| Neha Chaturvedi    | [@Alostwayfarer](https://github.com/Alostwayfarer)         |
+| Dikshant Sharma    | [@dikshantks](https://github.com/dikshantks)               |
 
 ## Installation
 
