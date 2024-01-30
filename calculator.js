@@ -20,7 +20,7 @@ function eraseLastCharacter() {
   var display = document.getElementById("display");
   display.value = display.value.slice(0, -1);
 }
-c
+
 function calculate(check) {
   try {
     let exp
