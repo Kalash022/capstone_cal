@@ -20,7 +20,7 @@ A basic calculator with subtraction, addition functionality and the ability to e
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/Kalash022/halla_bol
+   git clone https://github.com/Kalash022/capstone_cal
    ```
 2. Open the calculator in your preferred environment.
 3. Run the application.
