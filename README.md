@@ -1,4 +1,4 @@
-# Project Name
+# CAPSTONE I
 
 Project name: Simple Calculator
 
